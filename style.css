@@ -18,6 +18,7 @@ body {
 
 .sessao .box {
     display: flex;
+    justify-content: space-around;
 }
 
 img {
